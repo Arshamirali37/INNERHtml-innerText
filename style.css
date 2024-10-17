@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    color: black;
+}
+body.dark{
+    background-color: black;
+    color: white;
+}
+.contianer{
+padding: 50px;
+text-align: center;
+}
+
+.toggle-button{
+    padding: 20px;
+    background-color: burlywood;
+    border-radius: 40px;
+    border: none;
+}
+
+.hide{
+    display: none;
+}
